@@ -2,7 +2,7 @@
 #include "Ap5Mail.ch"
 
 /*/{Protheus.doc} SduLogin
-Envia e-mail sobre auditoria de login no APSDU/MPSDU
+Envia e-mail sobre auditoria de login no APSDU/MPSDU - Ponto de entrada disponibilizado pela TOTVS S.A. e desenvolvido por mim.
 
 @type function
 @author Felipe Pazetto
